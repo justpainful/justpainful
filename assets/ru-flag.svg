@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 48" role="img" aria-label="Pixel Russian flag" shape-rendering="crispEdges">
+  <rect x="0" y="0" width="72" height="48" fill="#1d3f73"/>
+  <rect x="3" y="3" width="66" height="14" fill="#ffffff"/>
+  <rect x="3" y="17" width="66" height="14" fill="#2f62ba"/>
+  <rect x="3" y="31" width="66" height="14" fill="#d9414a"/>
+  <rect x="3" y="3" width="66" height="42" fill="none" stroke="#102b55" stroke-width="3"/>
+</svg>
