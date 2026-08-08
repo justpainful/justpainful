@@ -13,7 +13,7 @@
 
 # Faisal Saud
 
-**I build small, deliberate software — private by default, native where it matters.**
+**What remains after the idea.**
 
 `Swift` · `SwiftUI` · `iOS` · `Local-first` · `Product systems`
 
