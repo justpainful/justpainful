@@ -1,0 +1,20 @@
+<svg width="720" height="270" viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="270" rx="26" fill="#222034"/>
+  <rect x="0" y="0" width="12" height="270" rx="6" fill="#8D82D9"/>
+  <path d="M430 270V222H468V196H506V170H544V144H582V118H620V92H658V66H720V270Z" fill="#312E4E"/>
+  <path d="M500 270V236H540V212H580V188H620V164H660V140H700V116H720V270Z" fill="#403A67"/>
+  <rect x="548" y="62" width="112" height="96" rx="16" fill="#CBDBFC"/>
+  <rect x="562" y="76" width="84" height="68" rx="10" fill="#FFFFFF"/>
+  <rect x="575" y="90" width="25" height="18" rx="4" fill="#8D82D9"/>
+  <rect x="607" y="90" width="25" height="18" rx="4" fill="#25AF7C"/>
+  <rect x="575" y="115" width="57" height="8" rx="4" fill="#3F3F74"/>
+  <rect x="575" y="129" width="40" height="6" rx="3" fill="#6F6B8E"/>
+  <text x="46" y="72" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">Things</text>
+  <text x="46" y="110" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#CBDBFC">Everything, in one place.</text>
+  <text x="46" y="155" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">A flexible personal information system where notes, files,</text>
+  <text x="46" y="181" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">accounts, links and records can live as the same kind of thing.</text>
+  <rect x="46" y="213" width="84" height="30" rx="7" fill="#312E4E"/><text x="61" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">SwiftUI</text>
+  <rect x="141" y="213" width="98" height="30" rx="7" fill="#312E4E"/><text x="155" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">Local-only</text>
+  <rect x="250" y="213" width="82" height="30" rx="7" fill="#312E4E"/><text x="264" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">System</text>
+  <text x="663" y="239" font-family="Segoe UI Symbol, Segoe UI, Arial, sans-serif" font-size="25" fill="#FFFFFF">↗</text>
+</svg>
