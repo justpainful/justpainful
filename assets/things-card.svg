@@ -1,17 +1,27 @@
 <svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="300" rx="28" fill="#F2F0EC"/>
-  <rect x="28" y="28" width="664" height="244" rx="24" fill="#FFFFFF" stroke="#D8D3CB" stroke-width="2"/>
+  <rect width="720" height="300" rx="28" fill="#121214"/>
 
-  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#202124">Things</text>
-  <text x="42" y="130" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="700" fill="#665584">Everything can belong together.</text>
-  <text x="42" y="184" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#3B3D40">Notes, files, links and accounts as one flexible system.</text>
+  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#FFFFFF">Things</text>
+  <text x="42" y="128" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" fill="#B8A7E1">Everything can belong together.</text>
+  <text x="42" y="182" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#E9E8EC">Notes, files, links and accounts inside one</text>
+  <text x="42" y="212" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#E9E8EC">flexible personal system.</text>
 
-  <g transform="translate(525 72)">
-    <rect x="0" y="0" width="118" height="118" rx="26" fill="#EEEAF4"/>
-    <rect x="26" y="24" width="66" height="18" rx="9" fill="#665584"/>
-    <rect x="26" y="51" width="42" height="14" rx="7" fill="#8C7DA6"/>
-    <rect x="26" y="76" width="54" height="14" rx="7" fill="#B1A7C1"/>
+  <g transform="translate(512 61)">
+    <circle cx="78" cy="82" r="68" fill="#1B1A20" stroke="#413C4D" stroke-width="2"/>
+    <circle cx="78" cy="82" r="11" fill="#B8A7E1"/>
+    <circle cx="78" cy="45" r="7" fill="#6D657A"/>
+    <circle cx="110" cy="64" r="7" fill="#6D657A"/>
+    <circle cx="98" cy="105" r="7" fill="#6D657A"/>
+    <circle cx="58" cy="105" r="7" fill="#6D657A"/>
+    <circle cx="46" cy="64" r="7" fill="#6D657A"/>
+    <g stroke="#746C82" stroke-width="3" stroke-linecap="round">
+      <line x1="78" y1="71" x2="78" y2="52"/>
+      <line x1="88" y1="76" x2="103" y2="67"/>
+      <line x1="86" y1="91" x2="94" y2="100"/>
+      <line x1="70" y1="91" x2="62" y2="100"/>
+      <line x1="68" y1="76" x2="53" y2="67"/>
+    </g>
   </g>
 
-  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#665584">↗</text>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#B8A7E1">↗</text>
 </svg>
