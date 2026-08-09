@@ -1,0 +1,20 @@
+<svg width="720" height="270" viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="270" rx="26" fill="#222034"/>
+  <rect x="0" y="0" width="12" height="270" rx="6" fill="#DF7126"/>
+  <path d="M430 270V224H470V200H510V176H550V152H590V128H630V104H670V80H720V270Z" fill="#312E4E"/>
+  <path d="M515 270V236H555V214H595V192H635V170H675V148H715V126H720V270Z" fill="#63351F"/>
+  <rect x="545" y="72" width="120" height="76" rx="24" fill="#CBDBFC"/>
+  <rect x="559" y="86" width="92" height="48" rx="18" fill="#FFFFFF"/>
+  <rect x="577" y="103" width="20" height="6" rx="3" fill="#3F3F74"/>
+  <rect x="584" y="96" width="6" height="20" rx="3" fill="#3F3F74"/>
+  <circle cx="623" cy="104" r="6" fill="#DF7126"/>
+  <circle cx="637" cy="116" r="6" fill="#25AF7C"/>
+  <text x="46" y="72" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">games</text>
+  <text x="46" y="110" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#CBDBFC">One game system. More than one surface.</text>
+  <text x="46" y="155" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">An Arabic party-games product spanning Discord and iOS,</text>
+  <text x="46" y="181" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">with shared accounts, scores, game logic and visual identity.</text>
+  <rect x="46" y="213" width="77" height="30" rx="7" fill="#312E4E"/><text x="60" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">Arabic</text>
+  <rect x="134" y="213" width="88" height="30" rx="7" fill="#312E4E"/><text x="148" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">Discord</text>
+  <rect x="233" y="213" width="84" height="30" rx="7" fill="#312E4E"/><text x="248" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">SwiftUI</text>
+  <text x="663" y="239" font-family="Segoe UI Symbol, Segoe UI, Arial, sans-serif" font-size="25" fill="#FFFFFF">↗</text>
+</svg>
