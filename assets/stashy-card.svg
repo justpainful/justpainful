@@ -1,23 +1,28 @@
 <svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="300" rx="28" fill="#241F1C"/>
-  <rect x="22" y="22" width="676" height="256" rx="22" fill="#2E2722" stroke="#4A3B31" stroke-width="2"/>
-  <text x="42" y="72" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="52" font-weight="750" fill="#FFF8F1">Stashy</text>
-  <text x="42" y="112" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700" fill="#E9A06D">Catch it. Keep it.</text>
-  <text x="42" y="160" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#F7EEE7">A private archive for the posts and media</text>
-  <text x="42" y="188" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#F7EEE7">you want to keep after the feed moves on.</text>
-  <rect x="42" y="232" width="104" height="35" rx="10" fill="#44372F"/><text x="60" y="256" font-family="Segoe UI, Inter, Arial" font-size="16" font-weight="600" fill="#F3C19F">Offline</text>
-  <rect x="157" y="232" width="104" height="35" rx="10" fill="#44372F"/><text x="176" y="256" font-family="Segoe UI, Inter, Arial" font-size="16" font-weight="600" fill="#F3C19F">Verified</text>
-  <g transform="translate(475 48)">
-    <rect x="0" y="0" width="176" height="188" rx="18" fill="#171412" stroke="#5B473A" stroke-width="2"/>
-    <rect x="17" y="17" width="142" height="50" rx="10" fill="#F7EFE8"/>
-    <circle cx="37" cy="42" r="10" fill="#E9A06D"/>
-    <rect x="54" y="30" width="74" height="8" rx="4" fill="#8D7768"/>
-    <rect x="54" y="45" width="56" height="7" rx="3.5" fill="#C1AEA1"/>
-    <rect x="17" y="78" width="142" height="68" rx="10" fill="#C98058"/>
-    <path d="M17 146L52 109L78 130L105 99L159 146Z" fill="#7A4934"/>
-    <rect x="31" y="160" width="114" height="11" rx="5.5" fill="#45382F"/>
-    <path d="M127 160V149H145V160" fill="none" stroke="#E9A06D" stroke-width="4" stroke-linecap="round"/>
+  <rect width="720" height="300" rx="28" fill="#211D1A"/>
+  <rect x="22" y="22" width="676" height="256" rx="22" fill="#2D2621" stroke="#4B3D34" stroke-width="2"/>
+  <path d="M438 22H676C688 22 698 32 698 44V278H438Z" fill="#271F1B"/>
+
+  <text x="42" y="78" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#FFF8F1">Stashy</text>
+  <text x="42" y="120" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="750" fill="#EAA16E">Catch it. Keep it.</text>
+  <text x="42" y="174" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#F8EEE7">A private archive for posts and media</text>
+  <text x="42" y="204" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#F8EEE7">worth keeping after the feed moves on.</text>
+  <text x="42" y="259" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.7" fill="#C99A7A">LOCAL MEDIA ARCHIVE</text>
+
+  <g transform="translate(474 43)">
+    <rect x="0" y="0" width="184" height="196" rx="20" fill="#151210" stroke="#5B473A" stroke-width="2"/>
+    <rect x="17" y="17" width="150" height="52" rx="11" fill="#F8F0E9"/>
+    <circle cx="38" cy="43" r="10" fill="#EAA16E"/>
+    <rect x="56" y="31" width="77" height="8" rx="4" fill="#887263"/>
+    <rect x="56" y="47" width="59" height="7" rx="3.5" fill="#C1AEA1"/>
+    <rect x="17" y="80" width="150" height="72" rx="11" fill="#C98058"/>
+    <circle cx="136" cy="101" r="10" fill="#F0BE84"/>
+    <path d="M17 152L53 113L80 135L109 100L167 152Z" fill="#74452F"/>
+    <rect x="31" y="168" width="77" height="9" rx="4.5" fill="#44362E"/>
+    <rect x="31" y="183" width="53" height="7" rx="3.5" fill="#3A2E28"/>
+    <path d="M130 176V159H153V176" fill="none" stroke="#EAA16E" stroke-width="4" stroke-linecap="round"/>
+    <path d="M141.5 153V170" stroke="#EAA16E" stroke-width="4" stroke-linecap="round"/>
   </g>
-  <path d="M633 258H670V221" fill="none" stroke="#E9A06D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M653 221H670V238" fill="none" stroke="#E9A06D" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M638 260H671V227" fill="none" stroke="#EAA16E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M654 227H671V244" fill="none" stroke="#EAA16E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
