@@ -1,20 +1,33 @@
-<svg width="720" height="270" viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="270" rx="26" fill="#222034"/>
-  <rect x="0" y="0" width="12" height="270" rx="6" fill="#DF7126"/>
-  <path d="M430 270V224H470V200H510V176H550V152H590V128H630V104H670V80H720V270Z" fill="#312E4E"/>
-  <path d="M515 270V236H555V214H595V192H635V170H675V148H715V126H720V270Z" fill="#63351F"/>
-  <rect x="545" y="72" width="120" height="76" rx="24" fill="#CBDBFC"/>
-  <rect x="559" y="86" width="92" height="48" rx="18" fill="#FFFFFF"/>
-  <rect x="577" y="103" width="20" height="6" rx="3" fill="#3F3F74"/>
-  <rect x="584" y="96" width="6" height="20" rx="3" fill="#3F3F74"/>
-  <circle cx="623" cy="104" r="6" fill="#DF7126"/>
-  <circle cx="637" cy="116" r="6" fill="#25AF7C"/>
-  <text x="46" y="72" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">games</text>
-  <text x="46" y="110" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#CBDBFC">One game system. More than one surface.</text>
-  <text x="46" y="155" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">An Arabic party-games product spanning Discord and iOS,</text>
-  <text x="46" y="181" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">with shared accounts, scores, game logic and visual identity.</text>
-  <rect x="46" y="213" width="77" height="30" rx="7" fill="#312E4E"/><text x="60" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">Arabic</text>
-  <rect x="134" y="213" width="88" height="30" rx="7" fill="#312E4E"/><text x="148" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">Discord</text>
-  <rect x="233" y="213" width="84" height="30" rx="7" fill="#312E4E"/><text x="248" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">SwiftUI</text>
-  <text x="663" y="239" font-family="Segoe UI Symbol, Segoe UI, Arial, sans-serif" font-size="25" fill="#FFFFFF">↗</text>
+<svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161616"/>
+      <stop offset="1" stop-color="#27211D"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="300" rx="28" fill="url(#g)"/>
+  <circle cx="617" cy="72" r="104" fill="#D86B2B" opacity=".12"/>
+  <circle cx="617" cy="72" r="72" fill="#D86B2B" opacity=".10"/>
+  <text x="42" y="73" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="54" font-weight="800" fill="#FFFFFF">Games</text>
+  <text x="42" y="114" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="700" fill="#F0A36B">One game world. Two surfaces.</text>
+  <text x="42" y="161" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#F4F0EC">Arabic party games shared across Discord</text>
+  <text x="42" y="189" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#F4F0EC">and iOS with the same identity and scores.</text>
+  <rect x="42" y="232" width="91" height="35" rx="9" fill="#2E2926" stroke="#51453E"/><text x="61" y="256" font-family="Segoe UI, Inter, Arial" font-size="16" font-weight="700" fill="#F0A36B">Arabic</text>
+  <rect x="144" y="232" width="98" height="35" rx="9" fill="#2E2926" stroke="#51453E"/><text x="163" y="256" font-family="Segoe UI, Inter, Arial" font-size="16" font-weight="700" fill="#FFFFFF">Discord</text>
+  <g transform="translate(472 48)">
+    <rect x="0" y="18" width="95" height="156" rx="22" fill="#F5F5F5"/>
+    <rect x="8" y="30" width="79" height="130" rx="16" fill="#242424"/>
+    <circle cx="47" cy="146" r="5" fill="#555"/>
+    <rect x="116" y="0" width="112" height="78" rx="18" fill="#5865F2"/>
+    <circle cx="145" cy="39" r="9" fill="#FFFFFF" opacity=".9"/>
+    <circle cx="197" cy="39" r="9" fill="#FFFFFF" opacity=".9"/>
+    <path d="M145 39C154 25 188 25 197 39" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity=".9"/>
+    <rect x="106" y="104" width="130" height="68" rx="24" fill="#F0A36B"/>
+    <rect x="129" y="130" width="26" height="8" rx="4" fill="#211C19"/>
+    <rect x="138" y="121" width="8" height="26" rx="4" fill="#211C19"/>
+    <circle cx="191" cy="128" r="7" fill="#211C19"/>
+    <circle cx="207" cy="143" r="7" fill="#211C19"/>
+    <path d="M96 70H116M95 132H106" stroke="#F0A36B" stroke-width="4" stroke-dasharray="5 5"/>
+  </g>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#F0A36B">↗</text>
 </svg>
