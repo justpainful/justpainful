@@ -1,0 +1,14 @@
+<svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="300" rx="28" fill="#111315"/>
+  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#FFFFFF">Things</text>
+  <text x="42" y="128" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" fill="#B7A5E8">Everything can belong together.</text>
+  <text x="42" y="182" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#E7E9EC">Notes, files, links and accounts become one</text>
+  <text x="42" y="212" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#E7E9EC">flexible local system.</text>
+  <g transform="translate(505 61)">
+    <circle cx="82" cy="82" r="68" fill="#1D1A23" stroke="#474053" stroke-width="2"/>
+    <circle cx="82" cy="82" r="9" fill="#B7A5E8"/>
+    <circle cx="82" cy="45" r="7" fill="#756A8C"/><circle cx="119" cy="82" r="7" fill="#756A8C"/><circle cx="82" cy="119" r="7" fill="#756A8C"/><circle cx="45" cy="82" r="7" fill="#756A8C"/>
+    <g stroke="#756A8C" stroke-width="3" stroke-linecap="round"><line x1="82" y1="73" x2="82" y2="52"/><line x1="91" y1="82" x2="112" y2="82"/><line x1="82" y1="91" x2="82" y2="112"/><line x1="73" y1="82" x2="52" y2="82"/></g>
+  </g>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#B7A5E8">↗</text>
+</svg>
