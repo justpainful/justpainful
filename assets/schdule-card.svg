@@ -1,33 +1,26 @@
 <svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="300" rx="28" fill="#EFE7D8"/>
-  <rect x="18" y="18" width="684" height="264" rx="20" fill="#FFFDF8" stroke="#D6CDBE" stroke-width="2"/>
-  <line x1="438" y1="18" x2="438" y2="282" stroke="#DFA6A6" stroke-width="2"/>
-  <g stroke="#E3DCCD" stroke-width="1">
-    <line x1="18" y1="83" x2="702" y2="83"/>
-    <line x1="18" y1="119" x2="702" y2="119"/>
-    <line x1="18" y1="155" x2="702" y2="155"/>
-    <line x1="18" y1="191" x2="702" y2="191"/>
-    <line x1="18" y1="227" x2="702" y2="227"/>
-  </g>
+  <rect width="720" height="300" rx="28" fill="#F2EBDD"/>
+  <rect x="20" y="20" width="680" height="260" rx="20" fill="#FFFDF8" stroke="#D8CFBF" stroke-width="2"/>
 
-  <text x="42" y="78" font-family="Georgia, Segoe UI, serif" font-size="55" font-weight="700" fill="#24231F">Schdule</text>
-  <text x="42" y="120" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" fill="#59694F">A month you can read at a glance.</text>
-  <text x="42" y="174" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#34332F">One habit. One board. One meaningful</text>
-  <text x="42" y="204" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#34332F">cell for every day of the month.</text>
-  <text x="42" y="259" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1.7" fill="#7B786F">MONTHLY HABIT SYSTEM</text>
+  <text x="42" y="82" font-family="Georgia, Segoe UI, serif" font-size="57" font-weight="700" fill="#262521">Schdule</text>
+  <text x="42" y="130" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="650" fill="#59694F">A month you can read at a glance.</text>
+  <text x="42" y="184" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#383732">One habit. One board. One cell per day.</text>
 
-  <g transform="translate(470 45)">
-    <text x="0" y="21" font-family="Segoe UI, Inter, Arial" font-size="15" font-weight="800" letter-spacing="2" fill="#68665F">AUGUST</text>
-    <text x="177" y="21" text-anchor="end" font-family="Georgia, serif" font-size="15" font-style="italic" fill="#9A9388">month 08</text>
-    <g fill="#F0E9DC" stroke="#CEC4B3">
-      <rect x="0" y="38" width="42" height="42" rx="5"/><rect x="48" y="38" width="42" height="42" rx="5"/><rect x="96" y="38" width="42" height="42" rx="5"/><rect x="144" y="38" width="42" height="42" rx="5"/>
-      <rect x="0" y="86" width="42" height="42" rx="5"/><rect x="48" y="86" width="42" height="42" rx="5"/><rect x="96" y="86" width="42" height="42" rx="5"/><rect x="144" y="86" width="42" height="42" rx="5"/>
-      <rect x="0" y="134" width="42" height="42" rx="5"/><rect x="48" y="134" width="42" height="42" rx="5"/><rect x="96" y="134" width="42" height="42" rx="5"/><rect x="144" y="134" width="42" height="42" rx="5"/>
+  <g transform="translate(507 62)">
+    <rect x="0" y="0" width="146" height="146" rx="16" fill="#EEE6D8"/>
+    <g fill="#D7CDBD">
+      <rect x="20" y="24" width="28" height="28" rx="5"/>
+      <rect x="59" y="24" width="28" height="28" rx="5"/>
+      <rect x="98" y="24" width="28" height="28" rx="5"/>
+      <rect x="20" y="63" width="28" height="28" rx="5"/>
+      <rect x="59" y="63" width="28" height="28" rx="5"/>
+      <rect x="98" y="63" width="28" height="28" rx="5"/>
+      <rect x="20" y="102" width="28" height="28" rx="5"/>
+      <rect x="59" y="102" width="28" height="28" rx="5"/>
+      <rect x="98" y="102" width="28" height="28" rx="5"/>
     </g>
-    <path d="M10 105L18 113L32 96" fill="none" stroke="#5D8B60" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M58 153L66 161L80 144" fill="none" stroke="#5D8B60" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="117" cy="107" r="10" fill="#D28B67"/>
-    <path d="M154 153L162 161L176 144" fill="none" stroke="#5D8B60" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M66 75L72 81L82 69" fill="none" stroke="#5D8B60" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#5C6656">↗</text>
+
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#59694F">↗</text>
 </svg>
