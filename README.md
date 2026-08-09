@@ -31,31 +31,31 @@ Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/Memories">
-    <img src="./assets/memories-card.svg" width="100%" alt="Memories project card"/>
+    <img src="./assets/memories-card-v2.svg" width="100%" alt="Memories project card"/>
   </a>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/Schdule">
-    <img src="./assets/schdule-card.svg" width="100%" alt="Schdule project card"/>
+    <img src="./assets/schdule-card-v2.svg" width="100%" alt="Schdule project card"/>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/Mr.Stashy">
-    <img src="./assets/stashy-card.svg" width="100%" alt="Stashy project card"/>
+    <img src="./assets/stashy-card-v2.svg" width="100%" alt="Stashy project card"/>
   </a>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/Things">
-    <img src="./assets/things-card.svg" width="100%" alt="Things project card"/>
+    <img src="./assets/things-card-v2.svg" width="100%" alt="Things project card"/>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/games">
-    <img src="./assets/games-card.svg" width="100%" alt="Games project card"/>
+    <img src="./assets/games-card-v2.svg" width="100%" alt="Games project card"/>
   </a>
 </td>
 <td width="50%" valign="top">
