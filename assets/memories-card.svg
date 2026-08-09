@@ -1,39 +1,22 @@
 <svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#172536"/>
       <stop offset="1" stop-color="#36566C"/>
     </linearGradient>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#172536" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#172536" stop-opacity="0"/>
-    </linearGradient>
   </defs>
-  <rect width="720" height="300" rx="28" fill="url(#sky)"/>
-  <circle cx="624" cy="62" r="42" fill="#F1C77C" opacity=".96"/>
-  <circle cx="624" cy="62" r="58" fill="#F1C77C" opacity=".08"/>
-  <path d="M398 300L467 220L518 249L586 161L720 300Z" fill="#234153"/>
-  <path d="M471 300L548 226L597 257L651 199L720 251V300Z" fill="#152A37"/>
-  <path d="M0 215C110 197 204 225 304 207C351 198 392 180 431 162V300H0Z" fill="url(#fade)"/>
+  <rect width="720" height="300" rx="28" fill="url(#bg)"/>
 
-  <g transform="translate(487 53) rotate(-7)">
-    <rect width="116" height="150" rx="10" fill="#F7F2EA"/>
-    <rect x="10" y="10" width="96" height="98" rx="4" fill="#89AEBE"/>
-    <circle cx="76" cy="34" r="14" fill="#F1C77C"/>
-    <path d="M10 108L39 70L59 90L75 65L106 108Z" fill="#315F64"/>
-    <rect x="26" y="123" width="64" height="7" rx="3.5" fill="#C7B9A6"/>
-  </g>
-  <g transform="translate(583 106) rotate(7)">
-    <rect width="100" height="128" rx="9" fill="#FFFDFC"/>
-    <rect x="9" y="9" width="82" height="82" rx="4" fill="#BFD7DC"/>
-    <path d="M9 91L34 61L51 76L65 54L91 91Z" fill="#577F75"/>
-    <rect x="23" y="106" width="54" height="6" rx="3" fill="#CFC4B7"/>
+  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#FFFFFF">Memories</text>
+  <text x="42" y="130" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="650" fill="#D7EBEF">Your library, remembered differently.</text>
+  <text x="42" y="184" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#FFFFFF">Private photo rediscovery, entirely on-device.</text>
+
+  <g transform="translate(520 62) rotate(-6)">
+    <rect width="132" height="164" rx="10" fill="#F7F2EA"/>
+    <rect x="11" y="11" width="110" height="108" rx="4" fill="#9DBAC5"/>
+    <circle cx="88" cy="39" r="15" fill="#F1C77C"/>
+    <path d="M11 119L45 78L67 98L88 70L121 119Z" fill="#416A6D"/>
   </g>
 
-  <text x="42" y="78" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#FFFFFF">Memories</text>
-  <text x="42" y="120" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" fill="#D7EBEF">Your library, remembered differently.</text>
-  <text x="42" y="174" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#FFFFFF">Private photo rediscovery built around</text>
-  <text x="42" y="204" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#FFFFFF">time, places and the people you care about.</text>
-  <text x="42" y="259" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="650" letter-spacing="1.6" fill="#C6DDE3">ON-DEVICE PHOTO REDISCOVERY</text>
   <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#FFFFFF">↗</text>
 </svg>
