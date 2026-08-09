@@ -1,0 +1,12 @@
+<svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="300" rx="28" fill="#111315"/>
+  <text x="42" y="104" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#FFFFFF">Games</text>
+  <text x="42" y="156" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="650" fill="#F0A36B">One game world. Two surfaces.</text>
+  <g transform="translate(505 61)">
+    <circle cx="82" cy="82" r="68" fill="#211B18" stroke="#4B3B32" stroke-width="2"/>
+    <path d="M48 93C48 72 62 59 82 59C102 59 116 72 116 93L111 109C109 116 101 118 96 113L88 104H76L68 113C63 118 55 116 53 109Z" fill="none" stroke="#8C6852" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M64 86H78M71 79V93" stroke="#F0A36B" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="97" cy="83" r="4" fill="#F0A36B"/><circle cx="106" cy="92" r="4" fill="#F0A36B"/>
+  </g>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#F0A36B">↗</text>
+</svg>
