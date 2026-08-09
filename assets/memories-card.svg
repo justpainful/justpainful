@@ -1,32 +1,34 @@
-<svg width="720" height="270" viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="270" rx="26" fill="#222034"/>
-  <rect x="0" y="0" width="12" height="270" rx="6" fill="#6FBCCB"/>
-
-  <!-- pixel landscape -->
-  <path d="M430 270V206H466V184H502V157H538V128H574V103H610V76H646V52H720V270Z" fill="#312E4E"/>
-  <path d="M477 270V222H513V198H549V172H585V146H621V121H657V96H693V76H720V270Z" fill="#3F3F74"/>
-  <path d="M541 270V230H577V207H613V183H649V160H685V137H720V270Z" fill="#2B6C79"/>
-  <path d="M613 270V238H649V217H685V194H720V270Z" fill="#56A8AD"/>
-
-  <!-- photo stack icon -->
-  <rect x="548" y="54" width="104" height="78" rx="8" fill="#CBDBFC"/>
-  <rect x="561" y="67" width="104" height="78" rx="8" fill="#FFFFFF"/>
-  <rect x="574" y="80" width="104" height="78" rx="8" fill="#312E4E"/>
-  <rect x="588" y="94" width="76" height="50" rx="4" fill="#6FBCCB"/>
-  <rect x="598" y="104" width="18" height="18" fill="#DF7126"/>
-  <path d="M588 144L611 122L629 136L643 119L664 144Z" fill="#225A66"/>
-
-  <text x="46" y="72" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">Memories</text>
-  <text x="46" y="110" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#CBDBFC">Time is the interface.</text>
-  <text x="46" y="155" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">A private, on-device photo rediscovery app</text>
-  <text x="46" y="181" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">that turns your library into changing memories.</text>
-
-  <rect x="46" y="213" width="84" height="30" rx="7" fill="#312E4E"/>
-  <text x="61" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">SwiftUI</text>
-  <rect x="141" y="213" width="92" height="30" rx="7" fill="#312E4E"/>
-  <text x="155" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">On-device</text>
-  <rect x="244" y="213" width="77" height="30" rx="7" fill="#312E4E"/>
-  <text x="258" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">iOS 26+</text>
-
-  <text x="663" y="239" font-family="Segoe UI Symbol, Segoe UI, Arial, sans-serif" font-size="25" fill="#FFFFFF">↗</text>
+<svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18263A"/>
+      <stop offset="1" stop-color="#314E66"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="300" rx="28" fill="url(#sky)"/>
+  <circle cx="617" cy="65" r="38" fill="#F2C879" opacity=".95"/>
+  <path d="M398 300L470 218L520 248L585 164L720 300Z" fill="#20394A"/>
+  <path d="M475 300L548 224L596 257L650 200L720 252V300Z" fill="#162A36"/>
+  <g transform="translate(494 61) rotate(-8)">
+    <rect width="110" height="142" rx="9" fill="#F7F2E9"/>
+    <rect x="10" y="10" width="90" height="94" rx="4" fill="#87A9B8"/>
+    <circle cx="72" cy="34" r="13" fill="#F2C879"/>
+    <path d="M10 104L38 68L58 88L74 65L100 104Z" fill="#315E63"/>
+    <rect x="25" y="118" width="60" height="7" rx="3.5" fill="#C7B9A6"/>
+  </g>
+  <g transform="translate(588 105) rotate(7)">
+    <rect width="96" height="124" rx="9" fill="#FFFDFC"/>
+    <rect x="9" y="9" width="78" height="80" rx="4" fill="#B9D1D5"/>
+    <path d="M9 89L33 60L49 75L63 54L87 89Z" fill="#547D73"/>
+    <rect x="22" y="103" width="52" height="6" rx="3" fill="#CFC4B7"/>
+  </g>
+  <text x="42" y="73" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="52" font-weight="750" fill="#FFFFFF">Memories</text>
+  <text x="42" y="112" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="23" font-weight="600" fill="#CFE4E9">Your library, remembered differently.</text>
+  <text x="42" y="161" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#FFFFFF">Private photo rediscovery that turns time,</text>
+  <text x="42" y="189" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#FFFFFF">places and people into changing memories.</text>
+  <rect x="42" y="233" width="96" height="36" rx="18" fill="#FFFFFF" opacity=".12"/>
+  <text x="63" y="257" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">On-device</text>
+  <rect x="148" y="233" width="84" height="36" rx="18" fill="#FFFFFF" opacity=".12"/>
+  <text x="170" y="257" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="600" fill="#FFFFFF">Private</text>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#FFFFFF">↗</text>
 </svg>
