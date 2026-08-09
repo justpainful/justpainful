@@ -1,22 +1,17 @@
 <svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#141414"/>
-      <stop offset="1" stop-color="#2B211B"/>
-    </linearGradient>
-  </defs>
-  <rect width="720" height="300" rx="28" fill="url(#bg)"/>
+  <rect width="720" height="300" rx="28" fill="#141210"/>
 
-  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="60" font-weight="850" fill="#FFFFFF">Games</text>
-  <text x="42" y="130" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="700" fill="#F0A36B">One game world. Two surfaces.</text>
-  <text x="42" y="184" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#F5F0EC">Arabic party games shared across Discord and iOS.</text>
+  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#FFFFFF">Games</text>
+  <text x="42" y="128" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" fill="#F0A36B">One game world. Two surfaces.</text>
+  <text x="42" y="182" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#EEEAE6">Arabic party games shared across Discord</text>
+  <text x="42" y="212" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#EEEAE6">and iOS.</text>
 
-  <g transform="translate(520 76)">
-    <rect x="0" y="0" width="136" height="82" rx="30" fill="#F0A36B"/>
-    <rect x="28" y="34" width="28" height="8" rx="4" fill="#211C19"/>
-    <rect x="38" y="24" width="8" height="28" rx="4" fill="#211C19"/>
-    <circle cx="96" cy="31" r="7" fill="#211C19"/>
-    <circle cx="112" cy="47" r="7" fill="#211C19"/>
+  <g transform="translate(512 61)">
+    <circle cx="78" cy="82" r="68" fill="#1E1A17" stroke="#4A3B31" stroke-width="2"/>
+    <path d="M47 91C49 68 58 57 78 57C98 57 107 68 109 91L114 111C116 121 105 127 98 120L88 109H68L58 120C51 127 40 121 42 111Z" fill="none" stroke="#F0A36B" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M59 83H75M67 75V91" stroke="#F0A36B" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="91" cy="79" r="4" fill="#F0A36B"/>
+    <circle cx="100" cy="88" r="4" fill="#F0A36B"/>
   </g>
 
   <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#F0A36B">↗</text>
