@@ -1,22 +1,18 @@
 <svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#172536"/>
-      <stop offset="1" stop-color="#36566C"/>
-    </linearGradient>
-  </defs>
-  <rect width="720" height="300" rx="28" fill="url(#bg)"/>
+  <rect width="720" height="300" rx="28" fill="#101517"/>
 
-  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#FFFFFF">Memories</text>
-  <text x="42" y="130" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="650" fill="#D7EBEF">Your library, remembered differently.</text>
-  <text x="42" y="184" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#FFFFFF">Private photo rediscovery, entirely on-device.</text>
+  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#FFFFFF">Memories</text>
+  <text x="42" y="128" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" fill="#9FD4DC">Your library, remembered differently.</text>
+  <text x="42" y="182" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#E7ECEE">Private photo rediscovery that stays entirely</text>
+  <text x="42" y="212" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#E7ECEE">on your device.</text>
 
-  <g transform="translate(520 62) rotate(-6)">
-    <rect width="132" height="164" rx="10" fill="#F7F2EA"/>
-    <rect x="11" y="11" width="110" height="108" rx="4" fill="#9DBAC5"/>
-    <circle cx="88" cy="39" r="15" fill="#F1C77C"/>
-    <path d="M11 119L45 78L67 98L88 70L121 119Z" fill="#416A6D"/>
+  <g transform="translate(512 61)">
+    <circle cx="78" cy="82" r="68" fill="#172124" stroke="#33464B" stroke-width="2"/>
+    <rect x="43" y="45" width="70" height="76" rx="8" fill="none" stroke="#6E8D94" stroke-width="3"/>
+    <circle cx="92" cy="67" r="8" fill="#9FD4DC"/>
+    <path d="M48 107L66 88L79 99L91 85L108 107" fill="none" stroke="#9FD4DC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M58 129H98" stroke="#566D72" stroke-width="3" stroke-linecap="round"/>
   </g>
 
-  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#FFFFFF">↗</text>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#9FD4DC">↗</text>
 </svg>
