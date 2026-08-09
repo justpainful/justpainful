@@ -17,7 +17,9 @@
 
 `Swift` · `SwiftUI` · `iOS` · `Local-first` · `Product systems`
 
-Currently at **Flowline** &nbsp;·&nbsp; and building **1980**
+**Product & Community Manager**
+
+Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
 
 </div>
 
@@ -106,9 +108,11 @@ Fully Arabic with real RTL layout, formal in-app naming rather than the shorthan
 
 **I'm looking for a team to build with, and I take on paid work.**
 
-iOS apps in Swift and SwiftUI, local-first architecture that keeps user data on the device, and product systems taken from spec to a shipped, tested build — including the CI that builds and screenshots it.
+Product and community on one side — shaping what gets built, writing the spec, and running the people around it. Building on the other — iOS apps in Swift and SwiftUI, local-first architecture that keeps user data on the device, and the CI that builds, tests, and screenshots them.
 
-Reach me at [ksa1980.lol](https://ksa1980.lol) or open an issue on any repository here.
+The projects above are the evidence for both halves.
+
+Reach me at [painful.sh](https://painful.sh) or open an issue on any repository here.
 
 <br>
 
