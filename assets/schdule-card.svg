@@ -1,33 +1,26 @@
-<svg width="720" height="270" viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="270" rx="26" fill="#222034"/>
-  <rect x="0" y="0" width="12" height="270" rx="6" fill="#25AF7C"/>
-
-  <!-- stepped pixel field -->
-  <path d="M430 270V224H466V201H502V178H538V154H574V130H610V106H646V82H682V58H720V270Z" fill="#312E4E"/>
-  <path d="M502 270V235H538V212H574V189H610V166H646V143H682V120H720V270Z" fill="#1A412D"/>
-
-  <!-- month grid -->
-  <rect x="535" y="54" width="132" height="132" rx="10" fill="#CBDBFC"/>
-  <rect x="548" y="67" width="106" height="106" rx="5" fill="#FFFFFF"/>
-  <g fill="#3F3F74">
-    <rect x="559" y="79" width="18" height="18"/><rect x="588" y="79" width="18" height="18"/><rect x="617" y="79" width="18" height="18"/>
-    <rect x="559" y="108" width="18" height="18"/><rect x="588" y="108" width="18" height="18"/><rect x="617" y="108" width="18" height="18"/>
-    <rect x="559" y="137" width="18" height="18"/><rect x="588" y="137" width="18" height="18"/><rect x="617" y="137" width="18" height="18"/>
+<svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="300" rx="28" fill="#F3EBDD"/>
+  <rect x="18" y="18" width="684" height="264" rx="20" fill="#FFFDF7" stroke="#D8CFBE" stroke-width="2"/>
+  <line x1="438" y1="18" x2="438" y2="282" stroke="#D9A3A3" stroke-width="2"/>
+  <g stroke="#D8CFBE" stroke-width="1">
+    <line x1="18" y1="82" x2="702" y2="82"/><line x1="18" y1="118" x2="702" y2="118"/><line x1="18" y1="154" x2="702" y2="154"/><line x1="18" y1="190" x2="702" y2="190"/><line x1="18" y1="226" x2="702" y2="226"/>
   </g>
-  <rect x="588" y="108" width="18" height="18" fill="#25AF7C"/>
-  <rect x="617" y="137" width="18" height="18" fill="#DF7126"/>
-
-  <text x="46" y="72" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">Schdule</text>
-  <text x="46" y="110" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#CBDBFC">The paper grid, rebuilt properly.</text>
-  <text x="46" y="155" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">A fully local monthly habit tracker with one board</text>
-  <text x="46" y="181" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">per habit and one meaningful cell per day.</text>
-
-  <rect x="46" y="213" width="84" height="30" rx="7" fill="#312E4E"/>
-  <text x="61" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">SwiftUI</text>
-  <rect x="141" y="213" width="91" height="30" rx="7" fill="#312E4E"/>
-  <text x="155" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">Local-first</text>
-  <rect x="243" y="213" width="100" height="30" rx="7" fill="#312E4E"/>
-  <text x="257" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">In progress</text>
-
-  <text x="663" y="239" font-family="Segoe UI Symbol, Segoe UI, Arial, sans-serif" font-size="25" fill="#FFFFFF">↗</text>
+  <text x="42" y="70" font-family="Georgia, Segoe UI, serif" font-size="51" font-weight="700" fill="#262521">Schdule</text>
+  <text x="42" y="109" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="23" font-weight="600" fill="#5D6B52">A month you can read at a glance.</text>
+  <text x="42" y="158" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#3A3935">One habit. One board. One meaningful</text>
+  <text x="42" y="186" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#3A3935">cell for every day of the month.</text>
+  <rect x="42" y="232" width="94" height="34" rx="8" fill="#E8E0D2"/><text x="62" y="255" font-family="Segoe UI, Inter, Arial" font-size="16" font-weight="600" fill="#4B5145">Local-first</text>
+  <rect x="148" y="232" width="78" height="34" rx="8" fill="#E8E0D2"/><text x="170" y="255" font-family="Segoe UI, Inter, Arial" font-size="16" font-weight="600" fill="#4B5145">Native</text>
+  <g transform="translate(474 48)">
+    <text x="0" y="22" font-family="Segoe UI, Inter, Arial" font-size="16" font-weight="700" fill="#5B5A55">AUGUST</text>
+    <g fill="#EEE7D9" stroke="#CEC5B5">
+      <rect x="0" y="38" width="42" height="42" rx="6"/><rect x="48" y="38" width="42" height="42" rx="6"/><rect x="96" y="38" width="42" height="42" rx="6"/><rect x="144" y="38" width="42" height="42" rx="6"/>
+      <rect x="0" y="86" width="42" height="42" rx="6"/><rect x="48" y="86" width="42" height="42" rx="6"/><rect x="96" y="86" width="42" height="42" rx="6"/><rect x="144" y="86" width="42" height="42" rx="6"/>
+      <rect x="0" y="134" width="42" height="42" rx="6"/><rect x="48" y="134" width="42" height="42" rx="6"/><rect x="96" y="134" width="42" height="42" rx="6"/><rect x="144" y="134" width="42" height="42" rx="6"/>
+    </g>
+    <path d="M10 105L18 113L32 96" fill="none" stroke="#5D8B60" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M58 153L66 161L80 144" fill="none" stroke="#5D8B60" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="117" cy="107" r="10" fill="#D28B67"/>
+  </g>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#4B5145">↗</text>
 </svg>
