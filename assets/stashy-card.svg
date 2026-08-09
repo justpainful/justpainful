@@ -1,17 +1,17 @@
 <svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="300" rx="28" fill="#211D1A"/>
+  <rect width="720" height="300" rx="28" fill="#151210"/>
 
-  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#FFF8F1">Stashy</text>
-  <text x="42" y="130" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="700" fill="#EAA16E">Catch it. Keep it.</text>
-  <text x="42" y="184" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#F8EEE7">A private archive for posts and media worth keeping.</text>
+  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#FFFFFF">Stashy</text>
+  <text x="42" y="128" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" fill="#E7A477">Catch it. Keep it.</text>
+  <text x="42" y="182" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#EEE9E5">A private archive for posts and media you</text>
+  <text x="42" y="212" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#EEE9E5">want to keep after the feed moves on.</text>
 
-  <g transform="translate(523 64)">
-    <rect x="0" y="0" width="128" height="148" rx="18" fill="#332A24" stroke="#5B473A" stroke-width="2"/>
-    <rect x="18" y="18" width="92" height="76" rx="10" fill="#C98058"/>
-    <path d="M18 94L45 66L63 79L82 58L110 94Z" fill="#74452F"/>
-    <path d="M46 119H82" stroke="#EAA16E" stroke-width="7" stroke-linecap="round"/>
-    <path d="M64 108V130" stroke="#EAA16E" stroke-width="7" stroke-linecap="round"/>
+  <g transform="translate(512 61)">
+    <circle cx="78" cy="82" r="68" fill="#211B18" stroke="#4A3930" stroke-width="2"/>
+    <rect x="47" y="45" width="62" height="72" rx="8" fill="none" stroke="#715346" stroke-width="3"/>
+    <path d="M63 74H93M63 87H87" stroke="#E7A477" stroke-width="3" stroke-linecap="round"/>
+    <path d="M78 104V129M67 115L78 126L89 115" fill="none" stroke="#E7A477" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 
-  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#EAA16E">↗</text>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#E7A477">↗</text>
 </svg>
