@@ -1,26 +1,26 @@
 <svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="720" height="300" rx="28" fill="#F2EBDD"/>
-  <rect x="20" y="20" width="680" height="260" rx="20" fill="#FFFDF8" stroke="#D8CFBF" stroke-width="2"/>
+  <rect width="720" height="300" rx="28" fill="#131512"/>
 
-  <text x="42" y="82" font-family="Georgia, Segoe UI, serif" font-size="57" font-weight="700" fill="#262521">Schdule</text>
-  <text x="42" y="130" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="650" fill="#59694F">A month you can read at a glance.</text>
-  <text x="42" y="184" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#383732">One habit. One board. One cell per day.</text>
+  <text x="42" y="82" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="800" fill="#FFFFFF">Schdule</text>
+  <text x="42" y="128" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="650" fill="#B8D39E">A month you can read at a glance.</text>
+  <text x="42" y="182" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#E8ECE5">One habit. One board. One meaningful</text>
+  <text x="42" y="212" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" fill="#E8ECE5">cell for every day.</text>
 
-  <g transform="translate(507 62)">
-    <rect x="0" y="0" width="146" height="146" rx="16" fill="#EEE6D8"/>
-    <g fill="#D7CDBD">
-      <rect x="20" y="24" width="28" height="28" rx="5"/>
-      <rect x="59" y="24" width="28" height="28" rx="5"/>
-      <rect x="98" y="24" width="28" height="28" rx="5"/>
-      <rect x="20" y="63" width="28" height="28" rx="5"/>
-      <rect x="59" y="63" width="28" height="28" rx="5"/>
-      <rect x="98" y="63" width="28" height="28" rx="5"/>
-      <rect x="20" y="102" width="28" height="28" rx="5"/>
-      <rect x="59" y="102" width="28" height="28" rx="5"/>
-      <rect x="98" y="102" width="28" height="28" rx="5"/>
+  <g transform="translate(512 61)">
+    <circle cx="78" cy="82" r="68" fill="#1B2018" stroke="#3C4736" stroke-width="2"/>
+    <g fill="none" stroke="#66755D" stroke-width="3">
+      <rect x="43" y="47" width="24" height="24" rx="4"/>
+      <rect x="72" y="47" width="24" height="24" rx="4"/>
+      <rect x="101" y="47" width="24" height="24" rx="4"/>
+      <rect x="43" y="76" width="24" height="24" rx="4"/>
+      <rect x="72" y="76" width="24" height="24" rx="4"/>
+      <rect x="101" y="76" width="24" height="24" rx="4"/>
+      <rect x="43" y="105" width="24" height="24" rx="4"/>
+      <rect x="72" y="105" width="24" height="24" rx="4"/>
+      <rect x="101" y="105" width="24" height="24" rx="4"/>
     </g>
-    <path d="M66 75L72 81L82 69" fill="none" stroke="#5D8B60" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M78 87L83 92L91 83" fill="none" stroke="#B8D39E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 
-  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#59694F">↗</text>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#B8D39E">↗</text>
 </svg>
