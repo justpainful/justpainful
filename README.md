@@ -19,7 +19,34 @@ I turn rough ideas into products people can actually use — defining the produc
 
 Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
 
-`Product direction` · `Community operations` · `Systems` · `iOS` · `Local-first`
+</div>
+
+<br>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=swift,ts,js,html,css,python,nodejs,go,react,nextjs,vite&perline=11" alt="Languages and frameworks" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,prisma,npm,git,github,githubactions,vscode,blender,bash,discord&perline=11" alt="Data, tools and platforms" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SwiftUI-111315?style=for-the-badge&logo=swift&logoColor=F05138" alt="SwiftUI" />
+<img src="https://img.shields.io/badge/Claude%20Code-111315?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code" />
+<img src="https://img.shields.io/badge/OpenAI%20Codex-111315?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+<img src="https://img.shields.io/badge/Discord.js-111315?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord.js" />
+<img src="https://img.shields.io/badge/Fastify-111315?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+<img src="https://img.shields.io/badge/Tuist-111315?style=for-the-badge&logo=apple&logoColor=white" alt="Tuist" />
+<img src="https://img.shields.io/badge/XcodeGen-111315?style=for-the-badge&logo=xcode&logoColor=147EFB" alt="XcodeGen" />
+<img src="https://img.shields.io/badge/SQLite-111315?style=for-the-badge&logo=sqlite&logoColor=5DADE2" alt="SQLite" />
+<img src="https://img.shields.io/badge/REST-111315?style=for-the-badge" alt="REST" />
+<img src="https://img.shields.io/badge/WebSocket-111315?style=for-the-badge" alt="WebSocket" />
+<img src="https://img.shields.io/badge/MCP-111315?style=for-the-badge" alt="MCP" />
+<img src="https://img.shields.io/badge/Local--first-111315?style=for-the-badge" alt="Local-first" />
 
 </div>
 
@@ -68,73 +95,13 @@ Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
 
 <br>
 
-### Memories — photo rediscovery without a service
+## How I work
 
-A private iPhone product that turns an existing photo library into a changing stream of memories. The product decision is intentionally restrictive: no account, no backend, no cloud AI and no duplicate photo library.
+I work across **product, community and implementation** rather than treating them as separate lanes.
 
-**Product focus:** rediscovery · privacy · on-device intelligence · native iOS
+The usual loop is simple: understand the problem, define the rules, remove unnecessary complexity, build the system, put it in front of real people, and keep improving it from what actually happens after launch.
 
-[Open Memories →](https://github.com/justpainful/Memories)
-
----
-
-### Schdule — a habit tracker that stays legible
-
-A monthly habit and schedule tracker built around a simple board: one habit, one month, one meaningful cell per day. Digital features add state and context without turning the original paper-grid idea into a dashboard.
-
-**Product focus:** clarity · daily state · progress · local-first
-
-[Open Schdule →](https://github.com/justpainful/Schdule)
-
----
-
-### Stashy — preservation instead of another feed
-
-A local-first archive for public posts and media. It preserves text, attribution, media and source metadata on the device, and treats incomplete or unverifiable captures as product states rather than silently pretending a save succeeded.
-
-**Product focus:** trustworthy capture · offline access · privacy · source transparency
-
-[Open Stashy →](https://github.com/justpainful/Mr.Stashy)
-
----
-
-### Things — one model for information that refuses neat categories
-
-A personal information system for accounts, files, photos, links, notes, paths and structured records. Instead of forcing each item into a separate app category, the product uses one flexible model that adapts to what the user is trying to keep.
-
-**Product focus:** information architecture · flexible data · local ownership · cross-device consistency
-
-[Open Things →](https://github.com/justpainful/Things)
-
----
-
-### Games — one product across Discord and iOS
-
-An Arabic party-games platform built across two surfaces: a Discord bot and a native iOS app. Accounts, scores, game logic and identity belong to the product rather than to either client, so a game can move between surfaces without becoming a different experience.
-
-**Product focus:** Arabic-first UX · community play · multi-surface systems · shared game state
-
-[Open Games →](https://github.com/justpainful/games)
-
----
-
-### Cognition — behaviour without redeploys
-
-An AI-operated Discord system where behaviour lives in a registry instead of hard-coded handlers. The bot stays running while actions, components and server workflows can change without writing a new feature file or restarting the process.
-
-**Product focus:** AI-operated systems · declarative behaviour · Discord operations · reversible automation
-
-[Open Cognition →](https://github.com/justpainful/Cognition)
-
-<br>
-
-## What I work on
-
-My work usually sits where **product, operations and community** overlap.
-
-I define product behavior and constraints, turn ideas into specifications and workflows, make decisions about what should or should not exist, and build the systems needed to operate the result. When the product has a community around it, I also care about rollout, communication, moderation structure, feedback loops and the day-to-day experience after launch.
-
-I stay technical enough to work directly with implementation — particularly SwiftUI, local-first systems, backend/API boundaries, CI and internal tooling — but the goal is not technology for its own sake. The goal is a product that remains understandable while it grows.
+I care about products that stay understandable as they grow — clear ownership, deliberate constraints, useful automation, strong operational tooling, and communities that have a direct path back into the product.
 
 <br>
 
@@ -144,7 +111,7 @@ I stay technical enough to work directly with implementation — particularly Sw
 
 **1980** — product, community and operational systems around a sim-racing venue and its online community.
 
-**Independent products** — small focused tools where privacy, ownership and clear product rules matter more than feature count.
+**Independent products** — focused software, local-first systems, internal tools and experiments.
 
 <br>
 
