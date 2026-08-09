@@ -13,13 +13,13 @@
 
 # Faisal Saud
 
-**What remains after the idea.**
-
-`Swift` · `SwiftUI` · `iOS` · `Local-first` · `Product systems`
-
 **Product & Community Manager**
 
+I turn rough ideas into products people can actually use — defining the product, shaping the experience, organizing the systems around it, and staying close to the community using it.
+
 Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
+
+`Product direction` · `Community operations` · `Systems` · `iOS` · `Local-first`
 
 </div>
 
@@ -40,79 +40,109 @@ Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
   </a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/justpainful/Mr.Stashy">
+    <img src="./assets/stashy-card.svg" width="100%" alt="Stashy project card"/>
+  </a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/justpainful/Things">
+    <img src="./assets/things-card.svg" width="100%" alt="Things project card"/>
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/justpainful/games">
+    <img src="./assets/games-card.svg" width="100%" alt="games project card"/>
+  </a>
+</td>
+<td width="50%" valign="top">
+  <br><br>
+  <strong>Different products, same approach.</strong><br><br>
+  Start with the problem. Define the rules. Keep the experience coherent. Build only what earns its place.
+</td>
+</tr>
 </table>
 
-### Memories
+<br>
 
-A standalone iPhone app that reads your photo library **on-device** and turns it into a daily-changing personal magazine of memories.
+### Memories — photo rediscovery without a service
 
-The important part is architectural, not cosmetic: no backend, no account, no cloud AI, no external analytics. Photos stay in Photos; the app stores identifiers and computed metadata.
+A private iPhone product that turns an existing photo library into a changing stream of memories. The product decision is intentionally restrictive: no account, no backend, no cloud AI and no duplicate photo library.
 
-**Built around:** SwiftUI · Photos · Vision · SwiftData · iOS 26+
+**Product focus:** rediscovery · privacy · on-device intelligence · native iOS
 
 [Open Memories →](https://github.com/justpainful/Memories)
 
 ---
 
-### Schdule
+### Schdule — a habit tracker that stays legible
 
-A monthly habit and schedule tracker built around the simplicity of a paper grid: one board per habit, one cell per day — except the digital cell can carry real state, counts, notes, and progress.
+A monthly habit and schedule tracker built around a simple board: one habit, one month, one meaningful cell per day. Digital features add state and context without turning the original paper-grid idea into a dashboard.
 
-Native SwiftUI, native Liquid Glass, and fully local with no account, sync service, or network dependency.
-
-**Building toward:** month boards · streaks & stats · widgets · App Intents · exports · notifications · Face ID lock · Arabic/English
+**Product focus:** clarity · daily state · progress · local-first
 
 [Open Schdule →](https://github.com/justpainful/Schdule)
 
-<br>
+---
 
-## Also building
+### Stashy — preservation instead of another feed
 
-### Stashy
+A local-first archive for public posts and media. It preserves text, attribution, media and source metadata on the device, and treats incomplete or unverifiable captures as product states rather than silently pretending a save succeeded.
 
-**Catch it. Keep it.** A local-first iOS archive for public posts and media. A post's text, attribution, ordered media, and source metadata are preserved on the device — there is no Stashy service to send an archive to.
-
-It reads only what a source publishes for public readers, signs in to nothing, and confirms every media address actually serves media before offering it — so a "saved" post never turns out to hold an error page.
-
-**Built around:** SwiftUI · Tuist · SQLite · Share Extension · Arabic/English RTL
+**Product focus:** trustworthy capture · offline access · privacy · source transparency
 
 [Open Stashy →](https://github.com/justpainful/Mr.Stashy)
 
 ---
 
-### Things
+### Things — one model for information that refuses neat categories
 
-**Everything, in one place.** A completely local personal information system. Accounts, passwords, files, photos, links, notes, paths, and cards — all as one flexible kind of item.
+A personal information system for accounts, files, photos, links, notes, paths and structured records. Instead of forcing each item into a separate app category, the product uses one flexible model that adapts to what the user is trying to keep.
 
-Not a notes app, not a file manager, not a password manager. It is the place where one item can be all four at once. Two cores, TypeScript and Swift, written independently and held in agreement by conformance vectors rather than shared code.
-
-**Built around:** SwiftUI · TypeScript · SQLite · LAN-only sync · no cloud
+**Product focus:** information architecture · flexible data · local ownership · cross-device consistency
 
 [Open Things →](https://github.com/justpainful/Things)
 
 ---
 
-### games <sub>— working title</sub>
+### games — one product across Discord and iOS
 
-An Arabic party-games platform on two surfaces: a Discord bot that renders **every** output as a composed image, and a SwiftUI app that shares the same account, scores, and games.
+An Arabic party-games platform built across two surfaces: a Discord bot and a native iOS app. Accounts, scores, game logic and identity belong to the product rather than to either client, so a game can move between surfaces without becoming a different experience.
 
-Fully Arabic with real RTL layout, formal in-app naming rather than the shorthand of chat commands, and a solo mode against a three-level bot.
-
-**Built around:** SwiftUI · Node.js · Discord OAuth2 · Prisma · XcodeGen
+**Product focus:** Arabic-first UX · community play · multi-surface systems · shared game state
 
 [Open games →](https://github.com/justpainful/games)
 
 <br>
 
-## Work
+## What I work on
 
-**I'm looking for a team to build with, and I take on paid work.**
+My work usually sits where **product, operations and community** overlap.
 
-Product and community on one side — shaping what gets built, writing the spec, and running the people around it. Building on the other — iOS apps in Swift and SwiftUI, local-first architecture that keeps user data on the device, and the CI that builds, tests, and screenshots them.
+I define product behavior and constraints, turn ideas into specifications and workflows, make decisions about what should or should not exist, and build the systems needed to operate the result. When the product has a community around it, I also care about rollout, communication, moderation structure, feedback loops and the day-to-day experience after launch.
 
-The projects above are the evidence for both halves.
+I stay technical enough to work directly with implementation — particularly SwiftUI, local-first systems, backend/API boundaries, CI and internal tooling — but the goal is not technology for its own sake. The goal is a product that remains understandable while it grows.
 
-Reach me at [painful.sh](https://painful.sh) or open an issue on any repository here.
+<br>
+
+## Currently
+
+**Flowline** — product work and experiments across software projects.
+
+**1980** — product, community and operational systems around a sim-racing venue and its online community.
+
+**Independent products** — small focused tools where privacy, ownership and clear product rules matter more than feature count.
+
+<br>
+
+## Contact
+
+For product work, community systems or collaborations:
+
+[painful.sh](https://painful.sh)
 
 <br>
 
