@@ -1,0 +1,18 @@
+<svg width="720" height="270" viewBox="0 0 720 270" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="270" rx="26" fill="#222034"/>
+  <rect x="0" y="0" width="12" height="270" rx="6" fill="#E58B55"/>
+  <path d="M430 270V224H470V198H510V172H550V146H590V120H630V94H670V68H720V270Z" fill="#312E4E"/>
+  <path d="M520 270V232H560V207H600V182H640V157H680V132H720V270Z" fill="#5A332A"/>
+  <rect x="548" y="66" width="112" height="84" rx="12" fill="#CBDBFC"/>
+  <rect x="563" y="81" width="82" height="54" rx="7" fill="#FFFFFF"/>
+  <path d="M578 117L594 101L607 112L620 96L638 117Z" fill="#E58B55"/>
+  <rect x="591" y="134" width="26" height="10" rx="5" fill="#3F3F74"/>
+  <text x="46" y="72" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">Stashy</text>
+  <text x="46" y="110" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" fill="#CBDBFC">Catch it. Keep it.</text>
+  <text x="46" y="155" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">A private archive for public posts and media, designed</text>
+  <text x="46" y="181" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" fill="#FFFFFF">to preserve what matters without creating another account.</text>
+  <rect x="46" y="213" width="84" height="30" rx="7" fill="#312E4E"/><text x="61" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">SwiftUI</text>
+  <rect x="141" y="213" width="91" height="30" rx="7" fill="#312E4E"/><text x="155" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">Local-first</text>
+  <rect x="243" y="213" width="78" height="30" rx="7" fill="#312E4E"/><text x="257" y="234" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" fill="#CBDBFC">Archive</text>
+  <text x="663" y="239" font-family="Segoe UI Symbol, Segoe UI, Arial, sans-serif" font-size="25" fill="#FFFFFF">↗</text>
+</svg>
