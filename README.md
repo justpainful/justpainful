@@ -27,7 +27,9 @@ Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,ts,js,html,css,python,nodejs,go,react,nextjs,vite&perline=11" alt="Languages and frameworks" />
+<img src="./assets/full-stack-icon.svg" width="48" height="48" alt="Full Stack" title="Full Stack" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=swift,python,go,nodejs,react,nextjs,vite,fastify&perline=8" alt="Development stack" />
 
 <br><br>
 
@@ -35,18 +37,15 @@ Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SwiftUI-111315?style=for-the-badge&logo=swift&logoColor=F05138" alt="SwiftUI" />
-<img src="https://img.shields.io/badge/Claude%20Code-111315?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code" />
-<img src="https://img.shields.io/badge/OpenAI%20Codex-111315?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-<img src="https://img.shields.io/badge/Discord.js-111315?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord.js" />
-<img src="https://img.shields.io/badge/Fastify-111315?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-<img src="https://img.shields.io/badge/Tuist-111315?style=for-the-badge&logo=apple&logoColor=white" alt="Tuist" />
-<img src="https://img.shields.io/badge/XcodeGen-111315?style=for-the-badge&logo=xcode&logoColor=147EFB" alt="XcodeGen" />
-<img src="https://img.shields.io/badge/SQLite-111315?style=for-the-badge&logo=sqlite&logoColor=5DADE2" alt="SQLite" />
-<img src="https://img.shields.io/badge/REST-111315?style=for-the-badge" alt="REST" />
-<img src="https://img.shields.io/badge/WebSocket-111315?style=for-the-badge" alt="WebSocket" />
-<img src="https://img.shields.io/badge/MCP-111315?style=for-the-badge" alt="MCP" />
-<img src="https://img.shields.io/badge/Local--first-111315?style=for-the-badge" alt="Local-first" />
+<img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="48" height="48" alt="Claude Code" title="Claude Code" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI Codex" title="OpenAI Codex" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/discorddotjs/5865F2" width="48" height="48" alt="Discord.js" title="Discord.js" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/xcode/147EFB" width="48" height="48" alt="Xcode" title="Xcode" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/apple/FFFFFF" width="48" height="48" alt="Apple platforms" title="Apple platforms / SwiftUI" />
 
 </div>
 
