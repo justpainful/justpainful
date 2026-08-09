@@ -15,7 +15,7 @@
 
 **Product & Community Manager**
 
-I build products, systems and communities and usually stay close to the work from the first idea to the finished thing.
+I build products systems and communities and usually stay close to the work from the first idea to the finished thing
 
 Founded **Flowline** · Working at **1980**
 
@@ -29,7 +29,9 @@ Founded **Flowline** · Working at **1980**
 
 <img src="./assets/full-stack-icon.svg" width="48" height="48" alt="Full Stack" title="Full Stack" />
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=swift,nodejs,react,nextjs,postgres,github,blender,discord&perline=8" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=swift,nodejs,react,nextjs,github,blender,discord&perline=7" alt="Stack" />
+&nbsp;&nbsp;
+<img src="./assets/codex-icon.svg" width="48" height="48" alt="Codex" title="Codex" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="48" height="48" alt="Claude Code" title="Claude Code" />
 
@@ -82,17 +84,17 @@ Founded **Flowline** · Working at **1980**
 
 ## About
 
-I like taking an idea and turning it into something real.
+I like taking an idea and turning it into something real
 
-Most of my work sits somewhere between product, community and code. I care about keeping things simple, useful and easy to run after they ship.
+Most of my work sits somewhere between product community and code
 
 <br>
 
 ## Now
 
-Building at **Flowline** and working on product and community systems at **1980**.
+Building at **Flowline** and working on product and community systems at **1980**
 
-I also keep a few independent projects moving when I find an idea worth building.
+I also keep a few independent projects moving when I find an idea worth building
 
 <br>
 
