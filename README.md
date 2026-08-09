@@ -15,9 +15,9 @@
 
 **Product & Community Manager**
 
-I turn rough ideas into products people can actually use — defining the product, shaping the experience, organizing the systems around it, and staying close to the community using it.
+I build products, systems and communities and usually stay close to the work from the first idea to the finished thing.
 
-Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
+Founded **Flowline** · Working at **1980**
 
 </div>
 
@@ -28,24 +28,10 @@ Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
 <div align="center">
 
 <img src="./assets/full-stack-icon.svg" width="48" height="48" alt="Full Stack" title="Full Stack" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=swift,python,go,nodejs,react,nextjs,vite,fastify&perline=8" alt="Development stack" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=sqlite,postgres,prisma,npm,git,github,githubactions,vscode,blender,bash,discord&perline=11" alt="Data, tools and platforms" />
-
-<br><br>
-
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=swift,nodejs,react,nextjs,postgres,github,blender,discord&perline=8" alt="Stack" />
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="48" height="48" alt="Claude Code" title="Claude Code" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="OpenAI Codex" title="OpenAI Codex" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/discorddotjs/5865F2" width="48" height="48" alt="Discord.js" title="Discord.js" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/xcode/147EFB" width="48" height="48" alt="Xcode" title="Xcode" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apple/FFFFFF" width="48" height="48" alt="Apple platforms" title="Apple platforms / SwiftUI" />
 
 </div>
 
@@ -57,36 +43,36 @@ Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/Memories">
-    <img src="./assets/memories-card-v2.svg" width="100%" alt="Memories project card"/>
+    <img src="./assets/memories-card-v3.svg" width="100%" alt="Memories project card"/>
   </a>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/Schdule">
-    <img src="./assets/schdule-card-v2.svg" width="100%" alt="Schdule project card"/>
+    <img src="./assets/schdule-card-v3.svg" width="100%" alt="Schdule project card"/>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/Mr.Stashy">
-    <img src="./assets/stashy-card-v2.svg" width="100%" alt="Stashy project card"/>
+    <img src="./assets/stashy-card-v3.svg" width="100%" alt="Stashy project card"/>
   </a>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/Things">
-    <img src="./assets/things-card-v2.svg" width="100%" alt="Things project card"/>
+    <img src="./assets/things-card-v3.svg" width="100%" alt="Things project card"/>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/games">
-    <img src="./assets/games-card-v2.svg" width="100%" alt="Games project card"/>
+    <img src="./assets/games-card-v3.svg" width="100%" alt="Games project card"/>
   </a>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/Cognition">
-    <img src="./assets/cognition-card.svg" width="100%" alt="Cognition project card"/>
+    <img src="./assets/cognition-card-v2.svg" width="100%" alt="Cognition project card"/>
   </a>
 </td>
 </tr>
@@ -94,29 +80,23 @@ Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
 
 <br>
 
-## How I work
+## About
 
-I work across **product, community and implementation** rather than treating them as separate lanes.
+I like taking an idea and turning it into something real.
 
-The usual loop is simple: understand the problem, define the rules, remove unnecessary complexity, build the system, put it in front of real people, and keep improving it from what actually happens after launch.
-
-I care about products that stay understandable as they grow — clear ownership, deliberate constraints, useful automation, strong operational tooling, and communities that have a direct path back into the product.
+Most of my work sits somewhere between product, community and code. I care about keeping things simple, useful and easy to run after they ship.
 
 <br>
 
-## Currently
+## Now
 
-**Flowline** — product work and experiments across software projects.
+Building at **Flowline** and working on product and community systems at **1980**.
 
-**1980** — product, community and operational systems around a sim-racing venue and its online community.
-
-**Independent products** — focused software, local-first systems, internal tools and experiments.
+I also keep a few independent projects moving when I find an idea worth building.
 
 <br>
 
 ## Contact
-
-For product work, community systems or collaborations:
 
 [painful.sh](https://painful.sh)
 
