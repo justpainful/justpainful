@@ -59,9 +59,9 @@ Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
   </a>
 </td>
 <td width="50%" valign="top">
-  <br><br>
-  <strong>Different products, same approach.</strong><br><br>
-  Start with the problem. Define the rules. Keep the experience coherent. Build only what earns its place.
+  <a href="https://github.com/justpainful/Cognition">
+    <img src="./assets/cognition-card.svg" width="100%" alt="Cognition project card"/>
+  </a>
 </td>
 </tr>
 </table>
@@ -115,6 +115,16 @@ An Arabic party-games platform built across two surfaces: a Discord bot and a na
 **Product focus:** Arabic-first UX · community play · multi-surface systems · shared game state
 
 [Open Games →](https://github.com/justpainful/games)
+
+---
+
+### Cognition — behaviour without redeploys
+
+An AI-operated Discord system where behaviour lives in a registry instead of hard-coded handlers. The bot stays running while actions, components and server workflows can change without writing a new feature file or restarting the process.
+
+**Product focus:** AI-operated systems · declarative behaviour · Discord operations · reversible automation
+
+[Open Cognition →](https://github.com/justpainful/Cognition)
 
 <br>
 
