@@ -55,7 +55,7 @@ Founded **Flowline** &nbsp;·&nbsp; Working at **1980**
 <tr>
 <td width="50%" valign="top">
   <a href="https://github.com/justpainful/games">
-    <img src="./assets/games-card.svg" width="100%" alt="games project card"/>
+    <img src="./assets/games-card.svg" width="100%" alt="Games project card"/>
   </a>
 </td>
 <td width="50%" valign="top">
@@ -108,13 +108,13 @@ A personal information system for accounts, files, photos, links, notes, paths a
 
 ---
 
-### games — one product across Discord and iOS
+### Games — one product across Discord and iOS
 
 An Arabic party-games platform built across two surfaces: a Discord bot and a native iOS app. Accounts, scores, game logic and identity belong to the product rather than to either client, so a game can move between surfaces without becoming a different experience.
 
 **Product focus:** Arabic-first UX · community play · multi-surface systems · shared game state
 
-[Open games →](https://github.com/justpainful/games)
+[Open Games →](https://github.com/justpainful/games)
 
 <br>
 
