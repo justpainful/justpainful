@@ -1,0 +1,12 @@
+<svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="300" rx="28" fill="#111315"/>
+  <text x="42" y="104" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#FFFFFF">Stashy</text>
+  <text x="42" y="156" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="650" fill="#E9A16E">Catch it. Keep it.</text>
+  <g transform="translate(505 61)">
+    <circle cx="82" cy="82" r="68" fill="#211B18" stroke="#4B3B32" stroke-width="2"/>
+    <rect x="49" y="47" width="66" height="72" rx="10" fill="none" stroke="#826554" stroke-width="3"/>
+    <path d="M62 74H102M62 88H94" stroke="#E9A16E" stroke-width="4" stroke-linecap="round"/>
+    <path d="M82 103V127M70 115L82 127L94 115" fill="none" stroke="#E9A16E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#E9A16E">↗</text>
+</svg>
