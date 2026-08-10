@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./assets/tui-banner-night.webp" width="100%" alt="Profile banner" />
+</div>
+
+<br>
+
+<div align="center">
 
 <table>
 <tr>
