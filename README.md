@@ -82,21 +82,17 @@ Founded **Flowline** · Working at **1980**
 
 <br>
 
-## Now
-
-Leading product work at **Flowline** and product and community systems at **1980**
-
-Currently exploring agent-oriented systems through **Cog** and **Cognition** alongside independent product work
-
-<br>
-
-## Contact
-
-[painful.sh](https://painful.sh)
-
-<br>
-
 <div align="center">
+
+Working across **Flowline** and **1980**
+
+Currently building **Cog** and **Cognition** alongside independent product work
+
+<br>
+
+[**painful.sh**](https://painful.sh)
+
+<br>
 
 <sub>🐧 still building.</sub>
 
