@@ -15,7 +15,7 @@
 
 **Product & Community Manager**
 
-I build products systems and communities and usually stay close to the work from the first idea to the finished thing
+I lead products from idea to working system, shaping the product, architecture and execution while staying close to the technical work
 
 Founded **Flowline** · Working at **1980**
 
@@ -44,20 +44,20 @@ Founded **Flowline** · Working at **1980**
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/justpainful/Memories">
-    <img src="./assets/memories-card-v3.svg" width="100%" alt="Memories project card"/>
+  <a href="https://github.com/justpainful/cog">
+    <img src="./assets/cog-card-v1.svg" width="100%" alt="Cog project card"/>
   </a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/justpainful/Schdule">
-    <img src="./assets/schdule-card-v3.svg" width="100%" alt="Schdule project card"/>
+  <a href="https://github.com/justpainful/Cognition">
+    <img src="./assets/cognition-card-v2.svg" width="100%" alt="Cognition project card"/>
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/justpainful/Mr.Stashy">
-    <img src="./assets/stashy-card-v3.svg" width="100%" alt="Stashy project card"/>
+  <a href="https://github.com/justpainful/Memories">
+    <img src="./assets/memories-card-v3.svg" width="100%" alt="Memories project card"/>
   </a>
 </td>
 <td width="50%" valign="top">
@@ -68,13 +68,13 @@ Founded **Flowline** · Working at **1980**
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/justpainful/games">
-    <img src="./assets/games-card-v3.svg" width="100%" alt="Games project card"/>
+  <a href="https://github.com/justpainful/Schdule">
+    <img src="./assets/schdule-card-v3.svg" width="100%" alt="Schdule project card"/>
   </a>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/justpainful/Cognition">
-    <img src="./assets/cognition-card-v2.svg" width="100%" alt="Cognition project card"/>
+  <a href="https://github.com/justpainful/Mr.Stashy">
+    <img src="./assets/stashy-card-v3.svg" width="100%" alt="Stashy project card"/>
   </a>
 </td>
 </tr>
@@ -82,19 +82,11 @@ Founded **Flowline** · Working at **1980**
 
 <br>
 
-## About
-
-I like taking an idea and turning it into something real
-
-Most of my work sits somewhere between product community and code
-
-<br>
-
 ## Now
 
-Building at **Flowline** and working on product and community systems at **1980**
+Leading product work at **Flowline** and product and community systems at **1980**
 
-I also keep a few independent projects moving when I find an idea worth building
+Currently exploring agent-oriented systems through **Cog** and **Cognition** alongside independent product work
 
 <br>
 
