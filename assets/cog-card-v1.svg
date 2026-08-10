@@ -1,0 +1,10 @@
+<svg width="720" height="300" viewBox="0 0 720 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="300" rx="28" fill="#111315"/>
+  <text x="42" y="104" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" fill="#FFFFFF">Cog</text>
+  <text x="42" y="156" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="650" fill="#C6D0DB">An agent-oriented language.</text>
+  <g transform="translate(523 74)" fill="none" stroke="#C6D0DB" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="64" cy="64" r="25"/>
+    <path d="M64 6v15M64 107v15M6 64h15M107 64h15M23 23l11 11M94 94l11 11M105 23L94 34M34 94l-11 11"/>
+  </g>
+  <text x="674" y="268" font-family="Segoe UI Symbol, Arial" font-size="30" fill="#C6D0DB">↗</text>
+</svg>
